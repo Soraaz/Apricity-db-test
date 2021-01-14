@@ -1,0 +1,7 @@
+{
+  "user": "admin",
+  "host": "localhost",
+  "database": "census_learn_sql",
+  "password": "root",
+  "port": 5432
+}
